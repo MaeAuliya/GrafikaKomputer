@@ -1,0 +1,12 @@
+@import url("https://webglfundamentals.org/webgl/resources/webgl-tutorials.css");
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 100vh;
+}
+canvas{
+  background-color: aliceblue;
+  height: 100vh;
+  width: 80vw;
+}
